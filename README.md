@@ -31,8 +31,10 @@ theme:
 + Intravascular hemolysis >> Anemia, Hyperkalemia, Hypotension;shock.
 + Hepatic necrosis.
 
+# images
 ![severe angioedema after henna ingestion](images/angioedema.png)
 
+# images
 ![Changing pattern of urine colour after hair dye ingestion as time passes. Bottles from right to left shows collected urine samples on day 1, 2, 3 and 4, respectively (courtesy- Department of Medicine, MLB Medical College, Jhansi, India).](images/urinecolor.png)
 
 # Management Protocol
