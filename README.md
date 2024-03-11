@@ -6,7 +6,7 @@ author:
 - Nesh Kumar
 
 theme:
-- Antibes
+- Copenhagen
 ---
 
 
@@ -25,11 +25,15 @@ theme:
 
 # Pathogenesis
 
-+ **Angioneurotic edema** >> laryngospasm >> dyspnea, hypoxia,  Acute respiratory failure.
++ **Angioedema** >> laryngospasm >> dyspnea, hypoxia,  Acute respiratory failure.
 + Rhabdomyolysis >> myocarditis = Arrhythmias.
 + Myoglobinemia >> Myoglobinuria >> Renal tubular necrosis >> ARF >> **cola coloured urine**.
 + Intravascular hemolysis >> Anemia, Hyperkalemia, Hypotension;shock.
 + Hepatic necrosis.
+
+![severe angioedema after henna ingestion](/images/angioedema.png)
+
+![Changing pattern of urine colour after hair dye ingestion as time passes. Bottles from right to left shows collected urine samples on day 1, 2, 3 and 4, respectively (courtesy- Department of Medicine, MLB Medical College, Jhansi, India).](/images/urinecolor.png)
 
 # Management Protocol
 ## ABCDE Approach
@@ -48,3 +52,5 @@ theme:
 1. Omer Sultan M, Inam Khan M, Ali R, et al. (May 29, 2020) Paraphenylenediamine (Kala Pathar) Poisoning
 at the National Poison Control Center in Karachi: A Prospective Study. Cureus 12(5): e8352. DOI
 10.7759/cureus.8352
+
+2. Oner, Fatih, and Umran Oner. "Intoxication Caused by Paraphenylenediamine After Henna Ingestion." Journal of Emergency Medicine Case Reports, vol. 12, no. 1, Mar. 2021, pp. 31+. Gale Academic OneFile, link.gale.com/apps/doc/A656810433/AONE?u=anon~9500721e&sid=googleScholar&xid=1b51dfb2. Accessed 11 Mar. 2024.
