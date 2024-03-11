@@ -33,9 +33,11 @@ theme:
 
 # images
 ![severe angioedema after henna ingestion](images/angioedema.png)
+- patient with angioedema after henna ingestion
 
 # images
-![Changing pattern of urine colour after hair dye ingestion as time passes. Bottles from right to left shows collected urine samples on day 1, 2, 3 and 4, respectively (courtesy- Department of Medicine, MLB Medical College, Jhansi, India).](images/urinecolor.png)
+![Urine Color](images/urinecolor.png)
+- Changing pattern of urine colour after hair dye ingestion as time passes. Bottles from right to left shows collected urine samples on day 1, 2, 3 and 4, respectively (courtesy- Department of Medicine, MLB Medical College, Jhansi, India). 
 
 # Management Protocol
 ## ABCDE Approach
