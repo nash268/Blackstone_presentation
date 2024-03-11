@@ -40,6 +40,7 @@ theme:
 # Management Protocol
 ## Gastric lavage
 + Perform gastric lavage with 2 grams of activated charcoal every 6 hours.
+
 ## Dialysis
 + To save kidneys and get toxins out of blood.
 
