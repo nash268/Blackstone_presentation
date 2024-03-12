@@ -53,7 +53,7 @@ theme:
 # Management Protocol
 + **Gastric lavage**: Perform gastric lavage and administer 1 gram/kg of activated charcoal.
 
-+ **If develops hypokalemia**: Give injection calcium gluconate 8 hourly and salbutamol (Ventoline) nebulization every 3 hours.
++ **If develops hyperkalemia**: Give injection calcium gluconate 8 hourly and salbutamol (Ventoline) nebulization every 3 hours.
 
 + **Cardiac support**: If hypotension persists despite adequate fluid resuscitation, give Injection Dopamine infusion at the rate of 6-8 micrograms per kilogram body weight per minute in order to maintain systolic blood pressure above 90 mmHg.
 
