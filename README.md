@@ -40,16 +40,16 @@ theme:
 
 
 # Management Protocol
-## ABCDE Approach
+**ABCDE Approach**
 + **Airway**: Perform tracheostomy and assessment of atrial blood gases (ABGs).
 + **Breathing**: Assure oxygen supply and assisted ventilation (if required).
 + **Circulation**: Save intravenous access with wide bore IV line. Assess fluid status by pulse rate, jugular venous pressure (JVP), blood pressure (in both supine and sitting conditions) and urine output (by catheterizing the patient).
 
 # Management Protocol
-## Gastric lavage
+**Gastric lavage**
 + Perform gastric lavage with 2 grams of activated charcoal every 6 hours.
 
-## Dialysis
+**Dialysis**
 + To save kidneys and get toxins out of blood.
 
 # References
