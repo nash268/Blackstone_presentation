@@ -41,7 +41,9 @@ theme:
 
 
 # Management Protocol
+
 **ABCD Approach**
+
 + **Airway**: Perform tracheostomy and assessment of atrial blood gases (ABGs).
 
 + **Breathing**: Assure oxygen supply and assisted ventilation (if required).
@@ -51,6 +53,7 @@ theme:
 + **Disability**: Assess neurological status.
 
 # Management Protocol
+
 + **Gastric lavage**: Perform gastric lavage and administer 1 gram/kg of activated charcoal.
 
 + **If develops hyperkalemia**: Give injection calcium gluconate 8 hourly and salbutamol (Ventoline) nebulization every 3 hours.
@@ -62,9 +65,11 @@ theme:
 + **Dialysis**: required for patients with acute renal failure.
 
 # Daily Investigations:
+
 + Send samples for hemoglobin level, renal parameters (RPMs), serum electrolytes (S/E), prothrombin time and activated partial thromboplastin time (PT/APTT), liver function tests (LFTs), creatinine phosphokinase (CPK), electrocardiogram (ECG), random blood sugar (RBS), atrial blood gases (ABGs), Ph, bicarbonate (HCO3) on daily basis.
 
 # References
+
 1. Omer Sultan M, Inam Khan M, Ali R, et al. (May 29, 2020) Paraphenylenediamine (Kala Pathar) Poisoning
 at the National Poison Control Center in Karachi: A Prospective Study. Cureus 12(5): e8352. DOI
 10.7759/cureus.8352
